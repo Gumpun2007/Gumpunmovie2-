@@ -12,20 +12,6 @@
 
 
 {
-			"name": "Titanic ไททานิค (1997)",
-	    	"image": "https://img2.pic.in.th/pic/IMG_066381944d62761a55ed.jpeg",   
-"info": "GUMPUN👊🏻 ",
-           "stations":[
-
-
-
-
-
-
-
-
-
-{
 			"name": "Guy Ritchie's The Covenant เดอะ โคเวแนนท์ (2023)",
 	    	"image": "https://img5.pic.in.th/file/secure-sv1/The20Convenant20Poster.jpeg",   
 "info": "GUMPUN👊🏻 ",
@@ -41,6 +27,15 @@ url:"https://m1free.inwstream.com:1936/movie3/Guy_Ritchie_s_The_Covenant_2023/Gu
 ]
 },
 
+
+
+
+
+{
+			"name": "Titanic ไททานิค (1997)",
+	    	"image": "https://img2.pic.in.th/pic/IMG_066381944d62761a55ed.jpeg",   
+"info": "GUMPUN👊🏻 ",
+           "stations":[
 
 {
 "name":"Titanic ไททานิค (1997)",
