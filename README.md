@@ -2,7 +2,7 @@
 		"name": "ดูหนัง 🎥🍿🇺🇸 ",
    		"author": "ใช้เฉพาะดูหนังในกลุ่มเท่านั้น❗️ ห้าม แชร์ หรือ แจกจ่ายเด็ดขาด ‼️",    
 		"image": "https://img5.pic.in.th/file/secure-sv1/B947A810-4466-4890-A985-2257A3B204C2.gif",
-		"url": "https://raw.githubusercontent.com/Gumpun2007/Gumpunmovie2-/main/README.md",
+		"url": "[https://raw.githubusercontent.com/Gumpun2007/Gumpunmovie2-/main/README.md](https://rebrand.ly/Gumpunmovie2-b597b6)",
 	
 
 		"groups":[
